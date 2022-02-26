@@ -1,0 +1,32 @@
+TODO:
+Math Questions
+-Make it able to choose answers
+-Then change boss health multiplier depending on answer
+--Correct = 1x multiplier
+--Wrong = 2x multiplier
+Add enemies
+-Skeleton Ram
+-Taunter
+Hotkeys (optional)
+
+- Jonny
+Settings buttons
+Make it able to exit the information without stopping and re-running
+Enter Settings button make bigger
+Destroyer tower doesn't work
+
+- James
+Make enemies stand out more
+Make towers in shop have names and cost
+Be able to select towers to see range and delete
+Fix tower placement issues
+Finish polishing the math 
+
+Adrian
+More, harder levels
+Sound
+Towers can only be placed on certain areas of the ground
+
+Andrew
+Map selection screen
+Damage animations 
